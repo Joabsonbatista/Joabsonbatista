@@ -1,4 +1,4 @@
-Bem  vido ao  meu GITHUB, Sou o joabson🤞
+Bem-Vindo ao  Meu GITHUB, Sou o Joabson🤞
 ### Olá! segue a vida😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joabsonbatistasilva)
@@ -24,7 +24,7 @@ Bem  vido ao  meu GITHUB, Sou o joabson🤞
 <img align="center" alt="vue.js"src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 <img align="center" alt="Markdown"src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img align="center" alt="Excel"src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img align="center" alt="HTML5"src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="HTML5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <div>        
 
 ### LEITURA .
